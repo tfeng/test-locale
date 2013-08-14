@@ -1,0 +1,4 @@
+test-locale
+===========
+
+Test Localization
